@@ -95,7 +95,6 @@ button { cursor: pointer; font-family: inherit; font-size: inherit; }
 
 /* ----- Top Navigation Bar (shared across all pages) ----- */
 .top-nav {
-  position: sticky; top: 0; z-index: 100;
   display: flex; align-items: center;
   height: var(--nav-height);
   background: var(--nav-bg);
